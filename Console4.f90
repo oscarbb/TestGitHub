@@ -19,7 +19,7 @@
     ! Variables
 
     ! Body of Console4
-    print *, 'Hello World'
+    print *, 'Hello Woooorld mod master'
 
     end program Console4
 
